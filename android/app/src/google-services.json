@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650777517915",
+    "project_id": "pillprompt-fe219",
+    "storage_bucket": "pillprompt-fe219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650777517915:android:c936a6e116c103ecd7447e",
+        "android_client_info": {
+          "package_name": "com.example.pillprompt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650777517915-t6oc37qvbjdupaal4ad54ntrk0sdh56k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8L_ld6MWwiXnFbGKwSbuZ0EKl_e9Nao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650777517915-t6oc37qvbjdupaal4ad54ntrk0sdh56k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
